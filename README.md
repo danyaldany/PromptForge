@@ -59,20 +59,31 @@ Generates: Full structured professional prompt
 ### ⚡ Instant Prompt Generator
 One-click generation for clear, well-defined requests. Powered by the same DistilBERT classifier.
 
+![AI Consultant](docs/Instant_prompt_generator.png)
+
 ### 🔧 Prompt Optimizer
 Paste any weak prompt → get a professionally structured, enhanced version with improvement score.
+
+![Promt Gen](docs/Prompt-generator.png)
 
 ### 🔍 Semantic Vector Search
 Search 3,535+ prompts by meaning using ChromaDB + Sentence Transformers — not just keywords.
 
+![vector](docs/vecto.png)
+
 ### 📚 Template Library
 8+ ready-to-use professional templates across all categories.
+
+![Library.png](docs/Library.png)
 
 ### 📊 Quality Scoring System
 Every prompt receives a quality score (0.0–1.0) based on 7 prompt engineering signals.
 
 ### 📤 Export System
 Download prompts as formatted **Markdown** or professional **PDF** documents.
+
+![quality_scoring](docs/quality_scoring.png)
+
 
 ---
 
