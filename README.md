@@ -19,6 +19,9 @@
 
 </div>
 
+### Dashboard
+![Dashboard](docs/dashboard.png)
+
 ---
 
 ## 📌 What is PromptForge?
