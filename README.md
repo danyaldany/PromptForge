@@ -69,7 +69,7 @@ Paste any weak prompt → get a professionally structured, enhanced version with
 ### 🔍 Semantic Vector Search
 Search 3,535+ prompts by meaning using ChromaDB + Sentence Transformers — not just keywords.
 
-![vector](docs/vecto.png)
+![vector](docs/vector.png)
 
 ### 📚 Template Library
 8+ ready-to-use professional templates across all categories.
